@@ -1,4 +1,4 @@
-# Contributing to GBS-Genomics-Pipeline
+# Contributing to Zika-Sentinel Pipeline
 
 Thank you for your interest in contributing. This project follows open-source best practices for reproducible bioinformatics software.
 
