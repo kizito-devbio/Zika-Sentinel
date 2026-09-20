@@ -2,9 +2,6 @@ cff-version: 1.2.0
 title: "Zika-Sentinel"
 message: "If you use this software, please cite it as below."
 type: software
-authors:
-  - family-names: "Sylvester-Ali Ibeojo"
-    given-names: "Kizito"
 repository-code: "https://github.com/kizito-devbio/Zika-Sentinel"
 abstract: "Nextflow/Docker pipeline for Zika virus genomic surveillance: QC, consensus, variant analysis, alignment, phylogeny, metadata integration, visualization and reporting."
 keywords:
